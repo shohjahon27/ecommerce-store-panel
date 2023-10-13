@@ -1,34 +1,29 @@
 # Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023
 
-![Copy of Copy of Fullstack Twitter Clone (1)](https://github.com/AntonioErdeljac/next13-ecommerce-admin/assets/23248726/088760cb-837d-44b7-a959-63089385d0a0)
-
-
 For DEMO, use [Stripe Testing Cards](https://stripe.com/docs/testing)
 
 This is a repository for a Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL
 
-## MAKE SURE YOU HAVE [ADMIN](https://github.com/AntonioErdeljac/next13-ecommerce-admin/tree/master) SETUP FIRST!
+## MAKE SURE YOU HAVE [ADMIN](https://github.com/shohjahon27/ecommerce-admin-panel/tree/master) SETUP FIRST!
 
-[VIDEO TUTORIAL](https://youtu.be/5miHyP6lExg)
+Asosiy xususiyatlar:
 
-Key Features:
-
-- We will be using Shadcn UI for the Admin!
-- Our admin dashboard is going to serve as both CMS, Admin and API!
-- You will be able to control mulitple vendors / stores through this single CMS! (For example you can have a "Shoe store" and a "Laptop store" and a "Suit store", and our CMS will generate API routes for all of those individually!)
-- You will be able to create, update and delete categories!
-- You will be able to create, update and delete products!
-- You will be able to upload multiple images for products, and change them whenever you want!
-- You will be able to create, update and delete filters such as "Color" and "Size", and then match them in the "Product" creation form.
-- You will be able to create, update and delete "Billboards" which are these big texts on top of the page. You will be able to attach them to a single category, or use them standalone (Our Admin generates API for all of those cases!)
-- You will be able to Search through all categories, products, sizes, colors, billboards with included pagination!
-- You will be able to control which products are "featured" so they show on the homepage!
-- You will be able to see your orders, sales, etc.
-- You will be able to see graphs of your revenue etc.
-- You will learn Clerk Authentication!
-- Order creation
-- Stripe checkout
-- Stripe webhooks
+- Administrator uchun Shadcn UI dan foydalanamiz!
+- Bizning administrator panelimiz CMS, Admin va API sifatida xizmat qiladi!
+- Ushbu yagona CMS orqali siz bir nechta sotuvchilarni / do'konlarni boshqarishingiz mumkin! (Masalan, sizda "Poyafzal do'koni", "Noutbuklar do'koni" va "Kostyumlar do'koni" bo'lishi mumkin va bizning CMS bularning barchasi uchun alohida API marshrutlarini ishlab chiqaradi!)
+- Siz toifalarni yaratish, yangilash va o'chirish imkoniyatiga ega bo'lasiz!
+- Siz mahsulotlarni yaratishingiz, yangilashingiz va o'chirishingiz mumkin bo'ladi!
+- Siz mahsulotlar uchun bir nechta rasmlarni yuklashingiz va ularni xohlagan vaqtda o'zgartirishingiz mumkin bo'ladi!
+- Siz "Rang" va "O'lcham" kabi filtrlarni yaratish, yangilash va o'chirish, so'ngra ularni "Mahsulot" yaratish formasida moslashtirish imkoniyatiga ega bo'lasiz.
+- Siz sahifaning yuqori qismidagi katta matnlar bo'lgan "Billboards" ni yaratishingiz, yangilashingiz va o'chirishingiz mumkin bo'ladi. Siz ularni bitta toifaga biriktira olasiz yoki mustaqil ravishda foydalanishingiz mumkin (Bizning administratorimiz barcha holatlar uchun API yaratadi!)
+- Siz barcha toifalar, mahsulotlar, o'lchamlar, ranglar, sahifalarni o'z ichiga olgan reklama taxtalari bo'yicha qidirishingiz mumkin bo'ladi!
+- Siz qaysi mahsulotlarni "mahsulotlar" bosh sahifada ko'rsatilishini nazorat qila olasiz!
+- Siz buyurtmalaringizni, sotuvlaringizni va hokazolarni ko'rishingiz mumkin bo'ladi.
+- Siz o'z daromadlaringizning grafiklarini va hokazolarni ko'rishingiz mumkin bo'ladi.
+- Siz xodimning autentifikatsiyasini o'rganasiz!
+- Buyurtma yaratish
+- Chiziqli kassa
+- Strip webhooks
 - MySQL + Prisma + PlanetScale
 
 ### Prerequisites
@@ -38,7 +33,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-ecommerce-store.git
+git clone https://github.com/shohjahon27/ecommerce-store-panel)
 ```
 
 ### Install packages
